@@ -1,0 +1,119 @@
+.top {
+    text-align: center;
+    width: 100%;
+    height: 391px;
+    background-image: url("imgs/noi that1.jpg");
+
+}
+.top .dong1 {
+    box-sizing:border-box;
+    font-family:Jost, sans-serif;
+    font-size:14px;
+    font-weight: 600 ;
+    color: rgb(255, 255, 255);
+
+
+}
+.dong{
+    margin-top: 100px;
+    position: absolute;
+text-align: center;
+    left: 380px;
+}
+.top .dong2{
+    font-family: Jost, sans-serif;
+    font-size :80px;
+    color:rgb(255, 255, 255);
+    line-height: 96px;
+    font-weight: 400;
+}
+.top .dong3{
+    font-family: Jost, sans-serif;
+    color:rgb(255, 255, 255);
+    font-size :16px;
+    line-height :24px;
+}
+.mid {
+    width: 100%;
+    height: 597px;
+    margin-top: 20px;
+}
+.mid .khoimid1 {
+    width: 442px;
+    height: 556px;
+    padding:15px 81px 15px 15px ;
+
+}
+.mid .khoimid2{
+    width: 611px;
+    height: 547px;
+
+}
+.khoimid2{
+    width: 611px;
+    height: 474px;
+    padding: 50px 60px 50px 60px;
+    border: 1px;
+
+}
+.mid {
+    display: flex;
+}
+.khoi1mid1 {
+    color :rgb(0, 0, 0);
+    font-family :Jost, sans-serif;
+    font-size :28px;
+    font-weight: 600;
+}
+.khoi1mid2 {
+    color :rgb(138, 139, 142);
+    font-size :16px;
+    font-weight: 400;
+    line-height :24px;
+    font-family:Jost, sans-serif;
+}
+.khoi2mid1 h5{
+    color: rgb(187, 187, 187);
+    font-family Jost, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height :21px;
+}
+.khoi2mid1  p{
+    color :rgb(0, 0, 0);
+    font-family: Jost, sans-serif;
+    font-weight :500;
+    font-size :14px;
+    margin-bottom :3px;
+}
+.khoi3mid1 h5{
+    color: rgb(187, 187, 187);
+    font-family Jost, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height :21px;
+}
+.khoi4mid1 h5{
+    color: rgb(187, 187, 187);
+    font-family Jost, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height :21px;
+}
+.khoimid2{
+    padding: 0px 0px 0px 0px;
+}
+.khoimid2 h3{
+    font-size: 36px;
+    font-weight: 600;
+    color: rgb(0,0,0);
+    line-height: 43px;
+
+}
+.khoimid2 p{
+    color :rgb(138, 139, 142);
+    font-size :16px;
+    font-weight: 400;
+    line-height :24px;
+    font-family:Jost, sans-serif;
+}
