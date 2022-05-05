@@ -53,7 +53,7 @@ text-align: center;
 .khoimid2{
     width: 611px;
     height: 474px;
-    padding: 50px 60px 50px 60px;
+    padding:0px 60px 50px 60px;
     border: 1px;
 
 }
@@ -75,7 +75,7 @@ text-align: center;
 }
 .khoi2mid1 h5{
     color: rgb(187, 187, 187);
-    font-family Jost, sans-serif;
+    font-family: Jost, sans-serif;
     font-size: 14px;
     font-weight: 600;
     line-height :21px;
@@ -89,22 +89,28 @@ text-align: center;
 }
 .khoi3mid1 h5{
     color: rgb(187, 187, 187);
-    font-family Jost, sans-serif;
+    font-family: Jost, sans-serif;
     font-size: 14px;
     font-weight: 600;
     line-height :21px;
 }
 .khoi4mid1 h5{
     color: rgb(187, 187, 187);
-    font-family Jost, sans-serif;
+    font-family: Jost, sans-serif;
     font-size: 14px;
     font-weight: 600;
     line-height :21px;
 }
 .khoimid2{
-    padding: 0px 0px 0px 0px;
+    width: 611px;
+    height: 474px;
+    line-height: 24px;
+    padding:0px 60px 50px 60px;
+
 }
-.khoimid2 h3{
+.khoimid2 .khoimid3 h3{
+    width: 205px;
+    height: 44px;
     font-size: 36px;
     font-weight: 600;
     color: rgb(0,0,0);
@@ -117,4 +123,83 @@ text-align: center;
     font-weight: 400;
     line-height :24px;
     font-family:Jost, sans-serif;
+}
+.khoimid2 .khoimid3 .khoiten{
+    width: 377px;
+    height: 78px;
+    padding: 0px 12px 0px 12px ;
+    max-width :100%;
+    line-height: 24px;
+}
+.khoimid2 .khoimid3 .khoiten input[type=name]{
+    width: 262px;
+    height: 24px;
+    padding: 8px 15px 8px 15px ;
+    font-size: 15px;
+
+}
+.khoimid2 .khoimid3 .khoiemail{
+    width: 294px;
+    height: 80px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 0px 12px 0px 12px;
+}
+.khoimid2 .khoimid3 .khoiemail input[type=email]{
+    width: 262px;
+    height: 24px;
+    padding: 8px 15px 8px 15px;
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 15px;
+}.khoimid2 .khoimid3 .khoisubject {
+    width:611px ;
+    height: 80px;
+    padding: 0px 12px 0px 12px ;
+    line-height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+ }
+.khoimid2 .khoimid3 .khoisubject  input[type=subject]{
+    width: 262px;
+    height: 24px;
+    padding: 8px 15px 8px 15px;
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 15px;
+}
+.khoimid2 .khoimid3 .khoimessage{
+width: 611px;
+height: 165px;
+padding: 0px 12px 0px 12px ;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+}
+.khoimid2 .khoimid3 .khoimessage  input[type=message]{
+width: 578px;
+height: 102px;
+padding: 8px 15px 8px 15px;
+margin-bottom: 10px;
+font-size: 15px;
+font-weight: 400;
+}
+.khoimid2 .khoisend {
+width: 611px;
+height: 94px;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+padding: 0px 12px 0px 12px ;
+}
+.khoimid2 .khoisend a{
+    width:579px;
+height: 35px;
+padding: 8px 15px 8px 15px;
+background-color:rgb(235, 119, 0) ;
+    text-decoration: none;
+    border-radius: 5px;
+font-size: 15px;
+font-weight: 500;
 }
